@@ -21,6 +21,7 @@
 <div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZrem82Z3E1YXd3bWJ1dHB1dm5wMG1zNzM5NTlvNWY4NHM1cXVxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wU5GXcDhwLDO7bcKvP/giphy.gif" width="400" height="300"/>
 </div>
+
 ---
 
 ### 👨‍🍳: About Me : 
@@ -31,5 +32,15 @@
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ather-ahmad-android-developer/") 
 - ⚡ In my free time, I solve problems on LeetCode and read tech articles.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Fire Base" alt="Fire Base" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+</div>
