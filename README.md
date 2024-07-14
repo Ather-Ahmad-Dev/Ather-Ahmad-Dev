@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qcWRiZXU5cWRvemFhYXhjY2lpcnlvZTZvYm5lNGFnMWZjd3FibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21qcWRiZXU5cWRvemFhYXhjY2lpcnlvZTZvYm5lNGFnMWZjd3FibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="200" height="200" >
 </div>
 
 <div id="badges">
@@ -15,13 +15,21 @@
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Wellcome to my Profile
 </h1>
 
-- Coming Soon
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZrem82Z3E1YXd3bWJ1dHB1dm5wMG1zNzM5NTlvNWY4NHM1cXVxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wU5GXcDhwLDO7bcKvP/giphy.gif" width="400" height="300"/>
+</div>
+---
+
+### 👨‍🍳: About Me : 
+- I am an Android Developer 📱.
 - 👋 Hi, I’m @Ather-Ahmad-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android Studio, Java, Kotlin and more
+- 🌱 I’m currently learning JetpackCompose
+- 💞️ I’m looking to collaborate on innovative projects.
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ather-ahmad-android-developer/") 
+- ⚡ In my free time, I solve problems on LeetCode and read tech articles.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
