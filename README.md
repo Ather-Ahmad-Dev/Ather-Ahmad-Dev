@@ -24,7 +24,7 @@
 
 ---
 
-### 👨‍🍳: About Me : 
+### 👨‍🍳 About Me : 
 - I am an Android Developer 📱.
 - 👋 Hi, I’m @Ather-Ahmad-Dev
 - 👀 I’m interested in Android Studio, Java, Kotlin and more
@@ -42,5 +42,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Fire Base" alt="Fire Base" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
 </div>
+
+---
+### 🔥 My Status :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ather-ahmad-dev&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ather-ahmad-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
